@@ -8,7 +8,7 @@ let muree="rainy"
 let kashmir="spring"
 
 if(weather== 'karachi'){
-    document.write('<img src="images/summer.webp" alt="summer"height="800px"> ')
+    document.write('<img src="images/summer.webp" alt="summer" height="800px" style="display: block; margin: 0 auto;> ')
 } else if (weather=='lahore'){
 document.write('<img src="images/sunny.webp" alt="sunny" width="100%">')
 }else if (weather=='islamabad'){
